@@ -1,0 +1,29 @@
+.b{
+    margin-top: 10%;    
+}
+
+.c{
+    margin-bottom: 3%;
+}
+.container{
+    border: 3px solid black;
+    border-radius: 2%;
+    margin-bottom: 6px;
+
+}
+.b .container .c div{
+    
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    border-bottom: 2px solid blue;
+
+}
+.d{margin-bottom: 30px;
+padding-bottom: 30px;}
+.b .container .d div{
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 25px;
+
+}
